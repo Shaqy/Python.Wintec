@@ -1,0 +1,7 @@
+'''
+Thomas Hunt
+Date 16/03/2023
+'''
+pound = float(input("What is your weight in pounds: "))
+kg = pound * 0.453592
+print(f"You Weigh {kg:.2f}kgs")
